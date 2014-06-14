@@ -1,0 +1,32 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+#baseurl: http://www.karottc.com
+baseurl: /myblog_cn
+#url: http://www.karottc.com
+date_format: "ordinal"
+title: karottc - 未济
+author: karottc chen 
+paginate: 16
+
+# ---------------- #
+#   RSS / Email    #
+# ---------------- #
+subscribe_rss: /atom.xml
+email:
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
+pygments: true
+permalink: /:year/:month/:day/:title
+gems:
+    - jekyll-sitemap
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+duoshuo_short_name: karottc
