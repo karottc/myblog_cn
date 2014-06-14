@@ -2,8 +2,8 @@
 #   Main Configs   #
 # ---------------- #
 #baseurl: http://www.karottc.com
-baseurl: /
-url: /
+baseurl: /myblog_cn
+#url: /
 date_format: "ordinal"
 title: karottc - 未济
 author: karottc chen 
