@@ -4,7 +4,7 @@ title: 前世档案 | karottc的blog
 categories: 前世档案
 ---
 
-上一个写blog的地方是在[博客园](http://www.cnblogs.com/karotte/)[^1],算是学生时代的一点记录<sup><a href="#fnref:1">1</a><sup>。
+上一个写blog的地方是在[博客园](http://www.cnblogs.com/karotte/)[^1],算是学生时代的一点记录<sup><a href="#fnref:1">1</a></sup>。
 
 ### 简史 ###
 2011年11月，我的第一篇blog：[Emacs配置成C/C++的IDE](http://blog.csdn.net/karotte/article/details/6990031)。
@@ -12,7 +12,7 @@ categories: 前世档案
 然后写了两篇跟技术沾边也算不沾边的blog：
 
 * [无roo权限时LAMP环境的搭建](http://www.cnblogs.com/karotte/archive/2012/08/12/install_lamp.html)[^2].
-* [secureCRT登录VMware进行开发](http://www.cnblogs.com/karotte/archive/2013/03/16/ssh2vmware.html).
+* [secureCRT登录VMware进行开发](http://www.cnblogs.com/karotte/archive/2013/03/16/ssh2vmware.html). <sup><a href="#fnref:2" name="fnref:2">2</a></sup>
 * [VMware中的linux能上网不能ping通的可能偏方一](http://www.cnblogs.com/karotte/archive/2013/03/24/vmware-ping.html).
 
 当然还有吐槽学校生活的：
@@ -34,7 +34,13 @@ categories: 前世档案
 
 
 脚注：
+
 <sup><a href="#fnref:1">1</a></sup>: 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
+
 [^1]: 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
+
 [^2]: 这是实习的时候写的，配置了一周的经验吖，LAMP框架的搭建确实比较不那么好搞。
+
 [^3]: 这篇blog是吐槽中软的，没想到刚发了一天博客园竟然删我的帖子，估计是收了钱，太坑了。
+
+<sup><a href="#fnref:2" name="fnref:2">2</a></sup>: 这是实习的时候写的，配置了一周的经验吖，LAMP框架的搭建确实比较不那么好搞。
