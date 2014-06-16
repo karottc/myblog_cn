@@ -4,7 +4,7 @@ title: 前世档案 | karottc的blog
 categories: 前世档案
 ---
 
-上一个写blog的地方是在[博客园](http://www.cnblogs.com/karotte/)[^1],算是学生时代的一点记录<sup><a href="#fnref:1">1</a></sup>。
+上一个写blog的地方是在[博客园](http://www.cnblogs.com/karotte/)[^1],算是学生时代的一点记录<sup><a href="#fnref:1" name="fnref:1">1</a></sup>。
 
 ### 简史 ###
 2011年11月，我的第一篇blog：[Emacs配置成C/C++的IDE](http://blog.csdn.net/karotte/article/details/6990031)。
@@ -33,9 +33,9 @@ categories: 前世档案
 > Life is full of new beginnings - May this be one of your happiest ever !!!
 
 
-脚注：
+#### 脚注：####
 
-<sup><a href="#fnref:1">1</a></sup>: 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
+<sup><a href="#fnref:1" name="fnref:1">1</a></sup>: 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
 
 [^1]: 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
 
