@@ -9,13 +9,13 @@ categories: 前世档案
 ### 简史 ###
 2011年11月，我的第一篇blog：[Emacs配置成C/C++的IDE](http://blog.csdn.net/karotte/article/details/6990031)。
 
-然后写了两篇跟技术沾边也算不沾边的blog：
+<font color="red>然后写了两篇跟技术</font>沾边也算不沾边的blog：
 
 * [无roo权限时LAMP环境的搭建](http://www.cnblogs.com/karotte/archive/2012/08/12/install_lamp.html) [^2].
 * [secureCRT登录VMware进行开发](http://www.cnblogs.com/karotte/archive/2013/03/16/ssh2vmware.html). <sup><a href="#fnref:5" name="fnref:5">5</a></sup>
 * [VMware中的linux能上网不能ping通的可能偏方一](http://www.cnblogs.com/karotte/archive/2013/03/24/vmware-ping.html).
 
-当然还有吐槽学校生活的：
+<s>当然还有吐槽学校生活</s>的：
 
 * 比如吐槽实习的，[坑爹的重庆实习](http://www.cnblogs.com/karotte/archive/2012/07/31/2616643.html). [^3]
 * 吐槽专业的氛围的，[软件工程这个专业 - 唉..](http://www.cnblogs.com/karotte/archive/2012/06/17/impetuous_colloge.html).
