@@ -37,10 +37,10 @@ categories: 前世档案
 
 <sup><a href="#fnref:4" name="fnref:4">4</a></sup> 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
 
-[^1] 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
+[^1]: 这是第一篇讲emacs配置的blog，地址是：http://www.cnblogs.com/karotte 。
 
-[^2] 这是实习的时候写的，配置了一周的经验吖，LAMP框架的搭建确实比较不那么好搞。
+[^2]: 这是实习的时候写的，配置了一周的经验吖，LAMP框架的搭建确实比较不那么好搞。
 
-[^3] 这篇blog是吐槽中软的，没想到刚发了一天博客园竟然删我的帖子，估计是收了钱，太坑了。
+[^3]: 这篇blog是吐槽中软的，没想到刚发了一天博客园竟然删我的帖子，估计是收了钱，太坑了。
 
 <a href="#fnref:5" name="fnref:5">5</a>这是实习的时候写的，配置了一周的经验吖，LAMP框架的搭建确实比较不那么好搞。
