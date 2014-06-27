@@ -5,7 +5,7 @@ title: karottc Chen
 
 *Education:* SiChuan University, Software Engineering.
 
-*Contact:* ```c fprintf(stderr,"%s@%s.%s\n","karottc","gmail","com"); /* Via The C Language.*/```.
+*Contact:* `c fprintf(stderr,"%s@%s.%s\n","karottc","gmail","com"); /* Via The C Language.*/`.
 
 *Social:* [GitHub](https://github.com/karottc) | [Douban](http://www.douban.com/people/karottc/) | [weibo](http://weibo.com/karotte)
 {% highlight c %}
