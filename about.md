@@ -10,7 +10,7 @@ title: karottc Chen
 
 *Social:* [GitHub](https://github.com/karottc) | [Douban](http://www.douban.com/people/karottc/) | [weibo](http://weibo.com/karotte)
 
-```c
+``` c
 	#include <stdin.h>
 	int main(int argc, char **argv)
 	{
