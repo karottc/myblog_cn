@@ -1,9 +1,9 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-#baseurl: http://www.karottc.com
-baseurl: /myblog_cn
-#url: www.karottc.com
+baseurl: http://blog.karottc.com
+#baseurl: /myblog_cn
+url: blog.karottc.com
 date_format: "ordinal"
 title: karottc - 未济
 author: karottc chen 
@@ -22,7 +22,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "footnotes", "highlight"]
 pygments: true
-permalink: /:year/:month/:day/:title
+permalink: /article/:year/:month/:day/:title
 gems:
     - jekyll-sitemap
 
